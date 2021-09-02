@@ -10,3 +10,6 @@ You can clone and run it on your editor. Please note, that we used the following
 Python version: 3.7.4, 
 SpaCy version: 3.1.1. 
 You can find the list of the packages we used in the file requirements.txt.  
+The exact guidelines for the installations of SpaCy and the language models can be found in the "Report.pdf" file. 
+For running the code you have to call the function with the following command: extract_categories(text_path, language), 'text_path' is the path of your textfile and 'language' is the language of the textfile. Both are strings and have to be written in quotation marks ("..." or '...'). 
+
